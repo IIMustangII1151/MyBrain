@@ -21,7 +21,7 @@
 
 [Building a Budget Homelab NAS Server (2022 Edition)](https://mtlynch.io/budget-nas/)
 
-4x (3.5 inch hard drive cage on 140 mm fan mount (Extra holes for Masterbox Q300L/Q500L) by Erli](https://www.thingiverse.com/thing:5179906/files)
+4x [3.5 inch hard drive cage on 140 mm fan mount (Extra holes for Masterbox Q300L/Q500L) by Erli](https://www.thingiverse.com/thing:5179906/files)
 
 2x [Toshiba N300](https://www.newegg.com/toshiba-n300-hdwg440xzsta-4tb/p/N82E16822149791?Item=9SIA2W0G352312&Description=hdd&cm_re=hdd-_-22-149-791-_-Product&quicklink=true) $200
 
@@ -51,4 +51,4 @@
 
 [Animes]
 
-[Torrent](Hello,%20I'm%20Erik%20Manzato%20b521553270c94adb8a8975e7953b95ed/Torrent%20c722c740f3834b5b99c002e51e3478b2.md)
+[Torrent]
