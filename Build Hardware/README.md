@@ -1,6 +1,6 @@
 # [My Hardware](https://github.com/IIMustangII1151/me#my-hardware)
 
-[pcpartpicker](https://pcpartpicker.com/list/)
+[pcpartpicker](https://pcpartpicker.com/list/) - Choose Your Parts
 
 [DisplaySpecifications](https://www.displayspecifications.com/en) - Specifications and features of desktop monitors and TVs
 
