@@ -4,12 +4,12 @@
 
 [pcpartpicker](https://pcpartpicker.com/list/)
 
-[DisplaySpecifications - Specifications and features of desktop monitors and TVs](https://www.displayspecifications.com/en)
+[DisplaySpecifications](https://www.displayspecifications.com/en) - Specifications and features of desktop monitors and TVs
 
-[DisplayNinja | Monitor Reviews, Recommendations & Guides](https://www.displayninja.com)
+[DisplayNinja](https://www.displayninja.com) - Monitor Reviews, Recommendations & Guides
 
-[Versus | Compare everything](https://versus.com/en)
+[Versus](https://versus.com/en) - Compare everything
 
-[CPU UserBenchmarks - 1316 Processors Compared](https://cpu.userbenchmark.com/)
+[CPU UserBenchmarks](https://cpu.userbenchmark.com/)
 
 [CPUBoss](http://cpuboss.com/)
