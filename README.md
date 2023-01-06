@@ -22,11 +22,11 @@
 
 4x [3.5 inch hard drive cage on 140 mm fan mount (Extra holes for Masterbox Q300L/Q500L) by Erli](https://www.thingiverse.com/thing:5179906/files)
 
-2x [Toshiba N300](https://www.newegg.com/toshiba-n300-hdwg440xzsta-4tb/p/N82E16822149791?Item=9SIA2W0G352312&Description=hdd&cm_re=hdd-_-22-149-791-_-Product&quicklink=true) $200
+2x [Toshiba N300](https://www.newegg.com/toshiba-n300-hdwg440xzsta-4tb/p/N82E16822149791?Item=9SIA2W0G352312&Description=hdd&cm_re=hdd-_-22-149-791-_-Product&quicklink=true)
 
-2x [WD Red Pro ](https://www.newegg.com/red-pro-wd4003ffbx-4tb/p/N82E16822234345?Item=N82E16822234345&Description=hdd&cm_re=hdd-_-22-234-345-_-Product)   $240
+2x [WD Red Pro ](https://www.newegg.com/red-pro-wd4003ffbx-4tb/p/N82E16822234345?Item=N82E16822234345&Description=hdd&cm_re=hdd-_-22-234-345-_-Product)
 
-2x [Seagate Ironwolf Pro](https://www.newegg.com/seagate-ironwolf-pro-st4000ne001-4tb/p/N82E16822184797?Item=9SIAS68FJV4711&Description=hdd&cm_re=hdd-_-22-184-797-_-Product) $250
+2x [Seagate Ironwolf Pro](https://www.newegg.com/seagate-ironwolf-pro-st4000ne001-4tb/p/N82E16822184797?Item=9SIAS68FJV4711&Description=hdd&cm_re=hdd-_-22-184-797-_-Product)
 
 
 
