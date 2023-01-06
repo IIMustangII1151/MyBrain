@@ -4,7 +4,6 @@
 **I love technology, podcasts, movies, anime, series and music.**
 
 > “ forecast battles 30 seconds ahead *”       Shiroe, Log Horizon*
-> 
 
 ### My Hardware
 
