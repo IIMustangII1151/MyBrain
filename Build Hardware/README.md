@@ -1,7 +1,5 @@
 # [My Hardware](https://github.com/IIMustangII1151/me#my-hardware)
 
-[WePC V2](https://www.wepc.com/)
-
 [pcpartpicker](https://pcpartpicker.com/list/)
 
 [DisplaySpecifications](https://www.displayspecifications.com/en) - Specifications and features of desktop monitors and TVs
