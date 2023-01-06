@@ -10,4 +10,4 @@
 
 [CPU UserBenchmarks](https://cpu.userbenchmark.com/)
 
-[CPUBoss](http://cpuboss.com/)
+[CPUBoss](http://cpuboss.com)
