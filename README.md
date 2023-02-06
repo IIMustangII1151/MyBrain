@@ -7,7 +7,7 @@
 
 ### My Hardware
 
-[Fedora Workstation](https://getfedora.org/en/workstation)
+[Debian](https://www.debian.org/)
 - [Ryzen 3 3200G + Vega 8 GPU](https://www.amd.com/en/products/apu/amd-ryzen-3-3200g)
 - [GIGABYTE B450M DS3H](https://www.gigabyte.com/Motherboard/B450M-DS3H-rev-1x)
 - [MSI Radeon RX 5500 XT GAMING X](https://us.msi.com/Graphics-Card/Radeon-RX-5500-XT-GAMING-X-8G)
