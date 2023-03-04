@@ -1,6 +1,6 @@
 # RPI
 
-[](https://berryboot.alexgoldcheidt.com/images/)
+[berryboot](https://berryboot.alexgoldcheidt.com/images/)
 
 [RetroPie](https://retropie.org.uk/)
 
@@ -10,6 +10,6 @@
 
 [Batocera.linux](https://batocera.org/)
 
-[](https://www.retrobat.ovh/)
+[retrobat](https://www.retrobat.ovh/)
 
 [Download Roms and Rom Packs - Torrent, Usenet and Direct Downloads](https://www.arcadepunks.com/roms-for-arcade-and-console-emulation/)

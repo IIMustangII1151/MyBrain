@@ -1,10 +1,10 @@
 # Rom
 
-[](https://www.ziperto.com/)
+[ziperto](https://www.ziperto.com/)
 
 [1fichier.com: Cloud Storage](https://1fichier.com/dir/m51pPpZb)
 
-[](https://romspure.com/)
+[romspure](https://romspure.com/)
 
 [Rune Factory 5 Switch NSP XCI NSZ](https://nsw2u.org/)
 

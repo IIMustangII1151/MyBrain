@@ -8,11 +8,11 @@
 
 [Laços para Encantar](https://lacosparaencantar.com/)
 
-[](https://lacosparaencantar.myshopify.com/admin)
+[lacosparaencantar Admin](https://lacosparaencantar.myshopify.com/admin)
 
-[](https://lacosparaencantar.myshopify.com/admin/apps/local-delivery/delivery-lists/new)
+[lacosparaencantar Delivery](https://lacosparaencantar.myshopify.com/admin/apps/local-delivery/delivery-lists/new)
 
-[](https://cliente.amigos-share.club/)
+[amigos-share](https://cliente.amigos-share.club/)
 
 [Brasil Tracker](https://brasiltracker.org/)
 

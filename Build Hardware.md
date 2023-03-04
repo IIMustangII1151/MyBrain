@@ -4,7 +4,7 @@
 
 [WePC V2](https://www.wepc.com/)
 
-[](https://pcpartpicker.com/list/)
+[pcpartpicker](https://pcpartpicker.com/list/)
 
 [DisplaySpecifications - Specifications and features of desktop monitors and TVs](https://www.displayspecifications.com/en)
 

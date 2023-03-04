@@ -4,7 +4,7 @@
 
 [Fmstrat/winapps](https://github.com/Fmstrat/winapps)
 
-[](https://techtablets.com/)
+[techtablets](https://techtablets.com/)
 
 [rss.yt - simple youtube rss feed generator](https://rss.yt/)
 

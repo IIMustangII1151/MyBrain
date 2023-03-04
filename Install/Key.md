@@ -10,9 +10,9 @@
     
     - 2014
         
-        PXKRH-CYJHD-J3C8V-8B2KQ-9BRV3
+    PXKRH-CYJHD-J3C8V-8B2KQ-9BRV3
         
-        CB9YB-Q73J8-RKPMH-M2WFT-P4WQJ
+    CB9YB-Q73J8-RKPMH-M2WFT-P4WQJ
         
 - Windows Vista Home Premium
     
