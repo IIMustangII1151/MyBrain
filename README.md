@@ -34,7 +34,7 @@
 
 ---
 
-[Build Hardware](https://github.com/IIMustangII1151/me/blob/main/Build%20Hardware/README.md)
+[Build Hardware](https://github.com/IIMustangII1151/me/blob/main/Build%20Hardware.md)
 
 [boot]
 
