@@ -2,7 +2,7 @@
 
 [Server](https://github.com/IIMustangII1151/MyBrain/blob/main/Install/Server.md)
 
-[Distro](https://github.com/IIMustangII1151/MyBrain/blob/main/Install/Disto.md)
+[Distro](https://github.com/IIMustangII1151/MyBrain/blob/main/Install/Distro.md)
 
 [Flathub-An app store and build service for Linux](https://flathub.org/home)
 
