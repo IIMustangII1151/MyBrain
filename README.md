@@ -36,22 +36,22 @@
 
 [Build Hardware](https://github.com/IIMustangII1151/me/blob/main/Build%20Hardware.md)
 
-[boot]
+[boot](https://github.com/IIMustangII1151/me/blob/main/Boot.md)
 
-[Install]
+[Install](https://github.com/IIMustangII1151/me/blob/main/Install.md)
 
-[Security]
+[Security](https://github.com/IIMustangII1151/me/blob/main/Security.md)
 
-[Apps]
+[Apps](https://github.com/IIMustangII1151/me/blob/main/Apps.md)
 
-[Games]
+[Games](https://github.com/IIMustangII1151/me/blob/main/Games.md)
 
-[News]
+[News](https://github.com/IIMustangII1151/me/blob/main/News.md)
 
-[Favorites]
+[Favorites](https://github.com/IIMustangII1151/me/blob/main/Favories.md)
 
-[Weather]
+[Weather](https://github.com/IIMustangII1151/me/blob/main/Weather.md)
 
-[Animes]
+[Animes](https://github.com/IIMustangII1151/me/blob/main/Animes.md)
 
-[Torrent]
+[Torrent](https://github.com/IIMustangII1151/me/blob/main/Torrent.md)
