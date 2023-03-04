@@ -14,6 +14,6 @@
 
 [ProtonDB | Gaming reports for Linux using Proton and Steam Play](https://www.protondb.com/)
 
-[](https://steamdb.info/)
+[SteamDB](https://steamdb.info/)
 
 [EmulationStation Desktop Edition (ES-DE)](https://es-de.org/)
