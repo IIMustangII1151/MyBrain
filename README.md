@@ -48,7 +48,7 @@
 
 [News](https://github.com/IIMustangII1151/me/blob/main/News.md)
 
-[Favorites](https://github.com/IIMustangII1151/me/blob/main/Favories.md)
+[Favorites](https://github.com/IIMustangII1151/me/blob/main/Favorites.md)
 
 [Weather](https://github.com/IIMustangII1151/me/blob/main/Weather.md)
 

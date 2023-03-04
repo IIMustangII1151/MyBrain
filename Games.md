@@ -1,6 +1,6 @@
 # Games
 
-[Rom](Games%207a58c015fad2481fbaf0c89e37b6afa1/Rom%2044d427b1e5fa4138b8a04f19f18c5be6.md)
+[Rom](https://github.com/IIMustangII1151/me/blob/main/Rom.md)
 
 [JoyXoff](https://joyxoff.com/en/)
 
