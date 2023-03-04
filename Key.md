@@ -1,0 +1,59 @@
+# Key
+
+- Microsoft Windows XP
+    
+    JDQGC-KD8GJ-BJPBB-YX3T3-6KW2D
+    
+    C8X2V-D399X-RFT66-XMVQ2-9TDJJ
+    
+    BDV7T-3JK2Y-BT4RM-3GHH2-6QHDY
+    
+    - 2014
+        
+        PXKRH-CYJHD-J3C8V-8B2KQ-9BRV3
+        
+        CB9YB-Q73J8-RKPMH-M2WFT-P4WQJ
+        
+- Windows Vista Home Premium
+    
+    XF4K8-PQDGW-6TGGJ-YRDFB-DJC4G
+    
+    HTVBR-YBWFD-D2TCD-FHB3B-VWHD8
+    
+- Windows 7 Home Premium
+    
+    2RF89-JPK8V-C8FX2-P74WK-JC8RW
+    
+    XF48K-PQDGW-6TGGJ-YRDG8-DJC4G
+    
+- Windows 7 Professional
+    
+    RD7XW-4P2VM-96HRW-WCTWH-H66J8
+    
+    MC8TJ-DWJPQ-9P77Q-YGTV7-GDDHY
+    
+    C7QK8-CX68V-WD6T3-KQW8M-7B2J9
+    
+- Windows 8 Single Language
+    
+    DMD6W-NF2MV-DMPCM-6YPFJ-7FPMD
+    
+    D4F6K-QK3RD-TMVMJ-BBMRX-3MBMV
+    
+    GFT4F-P8NW6-942T4-DVVDT-GMQHQ
+    
+    63XK4-N6WTF-XQHMD-KHKG7-94PMD
+    
+    JD7KN-T66C6-KTP6Y-H7PVD-62733
+    
+    VDT7M-NP6F6-MH3T6-TDQ3P-J427K
+    
+- Windows 8 Pro
+    
+    8F3TY-W63DD-3N6VC-K7QBG-68XT7
+    
+- Windows 10
+    
+    VK7JG-NPHTM-C97JM-9MPGT-3V66T
+    
+    GN7B7-8P8QD-MBJVT-V86PJ-YPWYP
