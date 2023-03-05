@@ -17,3 +17,5 @@
 [MacOS](https://github.com/IIMustangII1151/MyBrain/blob/main/Install/MacOS.md)
 
 [Windows](https://github.com/IIMustangII1151/MyBrain/blob/main/Install/Windows.md)
+
+[ChromeOS](https://github.com/IIMustangII1151/MyBrain/blob/main/Install/ChromeOS.md)
